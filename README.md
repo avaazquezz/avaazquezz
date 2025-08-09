@@ -1,6 +1,6 @@
 <h1 align="center">Adrián Vázquez</h1>
 <p align="center">
-  Full-Stack & AI Developer — I build end-to-end products and add intelligence with my own ML models and external AI APIs.
+  Full-Stack & AI Developer — I ship web products end-to-end and add intelligence with my own ML models and external AI APIs.
 </p>
 
 <p align="center">
@@ -9,22 +9,25 @@
   <a href="mailto:adrianvazvaz.2117@gmail.com">Email</a>
 </p>
 
-### About me
-- Full-stack + AI: I enjoy creating **end-to-end** services and adding intelligence—either by **training my own models** (scikit-learn, basic PyTorch) or **integrating AI APIs** (OpenAI, Gemini, etc.).
-- I also handle **deployments to production** when needed (Docker, GitHub Actions, basic AWS).
-- Open to **Junior AI/ML** or **Full-Stack Developer** roles (remote or Barcelona/EU).
+## What I build
+- **Full-stack products** (frontend + backend): clean APIs, auth, testing, and **AI integrations** when it makes sense.
+- **ML prototypes** (scikit-learn, basic PyTorch) with clear evaluation.
+- **LLM integrations** (OpenAI, Gemini) and lightweight **RAG**.
+- Containerized deployments with **Docker** and **GitHub Actions**.
 
-### Stack
-**Front:** React / Next.js, TypeScript  
-**Back:** Python (**FastAPI**), Node.js  
-**ML & LLMs:** scikit-learn, PyTorch (basic), RAG / LangChain, AI APIs  
-**Data & DevOps:** MongoDB, SQL, Docker, Git/GitHub Actions, AWS (basic)
+## Toolbox
+**Front:** React / Next.js, TypeScript, Vue.js 
+**Back:** Python (**FastAPI**), Node.js (**Express**), Java (**Spring Boot**)  
+**ML & LLMs:** scikit-learn, PyTorch (basic), Hugging Face Transformers, LangChain/RAG, AI APIs  
+**Data & Infra:** SQL, MongoDB, Docker, Git/GitHub Actions, AWS (basic), n8n
 
-### Highlights
-- 🧠 Classic ML: EDA, pipelines, validation, and metrics.  
-- 🔌 **LLM/API** integrations to add intelligence to web products.  
-- 🚀 Pragmatic delivery: clean code, clear endpoints, steady shipping.
+## Now
+- Practicing classic ML (EDA → features → metrics) and small LLM utilities.
+- Cleaning up repos and writing lean READMEs with runnable examples.
 
-### Contact
-- Web: **https://vazquezdev.pro**  
-- Email: **adrianvazvaz.2117@gmail.com**
+## How I work
+- Short iterations, small PRs, and clear commit messages.
+- Prefer typed code, simple architectures, and measurable outcomes.
+
+## Links
+- Portfolio & demos: **https://vazquezdev.pro**
