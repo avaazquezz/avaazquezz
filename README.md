@@ -16,14 +16,15 @@
 - Containerized deployments with **Docker** and **GitHub Actions**.
 
 ## Toolbox
-**Front:** React / Next.js, TypeScript, Vue.js 
+**Front:** React / Next.js, TypeScript / JavaScript, Vue.js, Flutter, React Native
 **Back:** Python (**FastAPI**), Node.js (**Express**), Java (**Spring Boot**)  
 **ML & LLMs:** scikit-learn, PyTorch (basic), Hugging Face Transformers, LangChain/RAG, AI APIs  
-**Data & Infra:** SQL, MongoDB, Docker, Git/GitHub Actions, AWS (basic), n8n
+**Data & Infra:** SQL, MongoDB, PostgreSQL Docker, Git/GitHub Actions, AWS (basic), n8n
 
 ## Now
-- Practicing classic ML (EDA → features → metrics) and small LLM utilities.
-- Cleaning up repos and writing lean READMEs with runnable examples.
+- Working on the StartTrain MVP and preparing NextTrain. 
+- Embedding AI features across web and mobile apps. 
+- Polishing portfolio, READMEs, and demos to attract recruiters and clients.
 
 ## How I work
 - Short iterations, small PRs, and clear commit messages.
