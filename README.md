@@ -16,10 +16,10 @@
 - Containerized deployments with **Docker** and **GitHub Actions**.
 
 ## Toolbox
-**Front:** React / Next.js, TypeScript / JavaScript, Vue.js, Flutter, React Native
-**Back:** Python (**FastAPI**), Node.js (**Express**), Java (**Spring Boot**)  
-**ML & LLMs:** scikit-learn, PyTorch (basic), Hugging Face Transformers, LangChain/RAG, AI APIs  
-**Data & Infra:** SQL, MongoDB, PostgreSQL Docker, Git/GitHub Actions, AWS (basic), n8n
+- **Front:** React / Next.js, TypeScript / JavaScript, Vue.js, Flutter, React Native
+- **Back:** Python (**FastAPI**), Node.js (**Express**), Java (**Spring Boot**)  
+- **ML & LLMs:** scikit-learn, PyTorch (basic), Hugging Face Transformers, LangChain/RAG, AI APIs  
+- **Data & Infra:** SQL, MongoDB, PostgreSQL Docker, Git/GitHub Actions, AWS (basic), n8n
 
 ## Now
 - Working on the StartTrain MVP and preparing NextTrain. 
