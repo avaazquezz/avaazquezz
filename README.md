@@ -15,8 +15,8 @@
 - Containerized deployments with **Docker** and **GitHub Actions**.
 
 ## Toolbox
-- **Front:** React / Next.js, TypeScript / JavaScript, Vue.js, Flutter, React Native
-- **Back:** Python (**FastAPI**), Node.js (**Express**), Java (**Spring Boot**)  
+- **Front:** React / Next.js, TypeScript / JavaScript, Vue.js, Flutter, React Native, Angular
+- **Back:** Python (**FastAPI, Django**), Node.js (**Express**), Java (**Spring Boot**)  
 - **ML & LLMs:** scikit-learn, PyTorch (basic), Hugging Face Transformers, LangChain/RAG, AI APIs  
 - **Data & Infra:** SQL, MongoDB, PostgreSQL Docker, Git/GitHub Actions, AWS (basic), n8n
 
