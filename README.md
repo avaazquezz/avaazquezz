@@ -11,7 +11,6 @@
 
 ## What I build
 - **Full-stack products** (frontend + backend): clean APIs, auth, testing, and **AI integrations** when it makes sense.
-- **ML prototypes** (scikit-learn, basic PyTorch) with clear evaluation.
 - **LLM integrations** (OpenAI, Gemini) and lightweight **RAG**.
 - Containerized deployments with **Docker** and **GitHub Actions**.
 
@@ -22,9 +21,9 @@
 - **Data & Infra:** SQL, MongoDB, PostgreSQL Docker, Git/GitHub Actions, AWS (basic), n8n
 
 ## Now
-- Working on the StartTrain MVP and preparing NextTrain. 
+- Working on the RoutineGenAI and preparing FutCo Project. 
 - Embedding AI features across web and mobile apps. 
-- Polishing portfolio, READMEs, and demos to attract recruiters and clients.
+- Polishing portfolio, READMEs, and demos.
 
 ## How I work
 - Short iterations, small PRs, and clear commit messages.
