@@ -1,33 +1,73 @@
-<h1 align="center">Adrián Vázquez</h1>
-<p align="center">
-  Full-Stack & AI Developer — I ship web products end-to-end and add intelligence with my own ML models and external AI APIs.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://vazquezdev.pro">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/adrivaz/">LinkedIn</a> •
-  <a href="mailto:adrianvazvaz.2117@gmail.com">Email</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Adrián+Vázquez+%7C+VazquezDev;Agentic+AI+%26+Systems+Architect;Enterprise+RAG+%7C+On-Premise+LLMs+%7C+No+Cloud+Lock-in" alt="Typing SVG" />
 
-## What I build
-- **Full-stack products** (frontend + backend): clean APIs, auth, testing, and **AI integrations** when it makes sense.
-- **LLM integrations** (OpenAI, Gemini) and lightweight **RAG**.
-- Containerized deployments with **Docker** and **GitHub Actions**.
+<br/>
 
-## Toolbox
-- **Front:** React / Next.js, TypeScript / JavaScript, Vue.js, Flutter, React Native, Angular
-- **Back:** Python (**FastAPI, Django**), Node.js (**Express**), Java (**Spring Boot**)  
-- **ML & LLMs:** scikit-learn, PyTorch (basic), Hugging Face Transformers, LangChain/RAG, AI APIs  
-- **Data & Infra:** SQL, MongoDB, PostgreSQL Docker, Git/GitHub Actions, AWS (basic), n8n
+**Efficiency Architect.** I design and deploy AI systems that run entirely on your infrastructure — no cloud dependency, no data leaving your servers, no vendor lock-in.
 
-## Now
-- Working on the RoutineGenAI and preparing FutCo Project. 
-- Embedding AI features across web and mobile apps. 
-- Polishing portfolio, READMEs, and demos.
+I don't just integrate LLMs. I build **production-grade AI architectures**: agentic workflows, enterprise RAG engines, and on-premise deployments that slot into real business operations.
 
-## How I work
-- Short iterations, small PRs, and clear commit messages.
-- Prefer typed code, simple architectures, and measurable outcomes.
+<br/>
 
-## Links
-- Portfolio & demos: **https://vazquezdev.pro**
+[![Portfolio](https://img.shields.io/badge/Portfolio-vazquezdev.pro-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://vazquezdev.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adrivaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrivaz/)
+[![Instagram](https://img.shields.io/badge/Instagram-vazquezdev.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vazquezdev.ai/)
+
+</div>
+
+---
+
+## What I architect
+
+```
+Enterprise RAG Engines      →  Corporate knowledge bases with hybrid search & hallucination control
+Agentic Workflows           →  Multi-agent systems that automate real operational processes  
+On-Premise LLM Deployments  →  Full AI stacks on client servers via Ollama — zero cloud dependency
+AI Automation Pipelines     →  n8n-powered workflows that reduce manual overhead by 40–60%
+```
+
+---
+
+## Where I work
+
+**🏢 Head of AI · Enterprise AI Systems** — *Confidential IT firm* · Barcelona  
+Sole AI architect and developer. Building end-to-end, privacy-first AI systems for enterprise clients: on-premise LLMs, RAG architectures, and agentic automations — all deployed on client infrastructure.
+
+**⚡ Agentic AI & Systems Architect** — *VazquezDev* · Remote  
+Independent practice: freelance AI architecture projects and proprietary SaaS products in development. Focused on bringing enterprise-grade AI to teams that need it without big-tech dependencies.
+
+---
+
+## Technical stack
+
+**AI & Agentic Frameworks**
+`LangGraph` `LangChain` `CrewAI` `AutoGen` `Ollama` `n8n` `LLM APIs`
+
+**Vector & Data Infrastructure**
+`Pinecone` `ChromaDB` `pgvector` `Redis` `PostgreSQL`
+
+**Production Backend**
+`Python` `FastAPI` `Django` `Node.js` `Docker`
+
+**Frontend**
+`Vue / Vuetify` `Angular` `React` `TypeScript`
+
+---
+
+## How I think about AI systems
+
+- **Privacy by design** — client data stays on client infrastructure. Always.
+- **Production-first** — latency, token economy, and hallucination control are not afterthoughts.
+- **Business outcomes over demos** — every system I build is measured against real operational impact.
+- **Iterative and clean** — small PRs, clear architecture, no over-engineering.
+
+---
+
+<div align="center">
+
+*Building the AI infrastructure layer for businesses that take their data seriously.*
+
+**[→ See the work at vazquezdev.pro](https://vazquezdev.pro)**
+
+</div>
