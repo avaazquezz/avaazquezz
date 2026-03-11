@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Adrián+Vázquez+%7C+VazquezDev;Agentic+AI+%26+Systems+Architect;Enterprise+RAG+%7C+On-Premise+LLMs+%7C+No+Cloud+Lock-in" alt="Typing SVG" />
 
 <br/>
 
