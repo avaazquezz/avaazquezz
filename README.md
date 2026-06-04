@@ -30,7 +30,7 @@ AI Automation Pipelines     →  n8n-powered workflows that reduce manual overhe
 
 ## Where I work
 
-**🏢 Head of AI · Enterprise AI Systems** — *Confidential IT firm* · Barcelona  
+**🏢 Head of AI · Enterprise AI Systems** — *CSR-Online* · Barcelona  
 Sole AI architect and developer. Building end-to-end, privacy-first AI systems for enterprise clients: on-premise LLMs, RAG architectures, and agentic automations — all deployed on client infrastructure.
 
 **⚡ Agentic AI & Systems Architect** — *VazquezDev* · Remote  
