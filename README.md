@@ -3,13 +3,14 @@
 
 <br/>
 
-**Efficiency Architect.** I design and deploy AI systems that run entirely on your infrastructure — no cloud dependency, no data leaving your servers, no vendor lock-in.
+**AI Systems Architect & Developer.** I engineer production-grade RAG architectures and multi-agent workflows — architecture-first, shaped by your security and compliance requirements.
 
-I don't just integrate LLMs. I build **production-grade AI architectures**: agentic workflows, enterprise RAG engines, and on-premise deployments that slot into real business operations.
+I don't just integrate LLMs. I design AI that runs where it needs to — **your servers or the cloud** — and ship it to production, not to demo mode.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vazquezdev.pro-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://vazquezdev.pro)
+[![Cortex AI](https://img.shields.io/badge/Cortex_AI-brain.vazquezdev.pro-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://brain.vazquezdev.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adrivaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrivaz/)
 [![Instagram](https://img.shields.io/badge/Instagram-vazquezdev.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vazquezdev.ai/)
 
@@ -22,41 +23,58 @@ I don't just integrate LLMs. I build **production-grade AI architectures**: agen
 ```
 Enterprise RAG Engines      →  Corporate knowledge bases with hybrid search & hallucination control
 Agentic Workflows           →  Multi-agent systems that automate real operational processes  
-On-Premise LLM Deployments  →  Full AI stacks on client servers via Ollama — zero cloud dependency
-AI Automation Pipelines     →  n8n-powered workflows that reduce manual overhead by 40–60%
+Flexible Deployment         →  Cloud APIs or fully self-hosted — the design follows your requirements
+AI Automation Pipelines     →  n8n-powered orchestration that removes manual overhead
 ```
+
+---
+
+## Systems in production
+
+```
+RAG-01  Cortex AI                 Conversational RAG over curated professional context
+                                  Vue 3 · FastAPI · ChromaDB · Groq · Docker/Traefik
+
+AGT-01  Telegram Reporting Agent  Voice note → transcribe → classify → PDF → email → confirm
+                                  n8n · Whisper large-v3-turbo · Claude · Gotenberg — 6 users in production
+
+WRK-01  Invoice PDF Bot           Natural language → compliant PDF invoice → Drive + Sheets
+                                  n8n · Claude API · Telegram Bot API — 20 min → 30 s per invoice
+```
+
+**[→ Full case studies at vazquezdev.pro](https://vazquezdev.pro)**
 
 ---
 
 ## Where I work
 
-**🏢 Head of AI · Enterprise AI Systems** — *CSR-Online* · Barcelona  
-Sole AI architect and developer. Building end-to-end, privacy-first AI systems for enterprise clients: on-premise LLMs, RAG architectures, and agentic automations — all deployed on client infrastructure.
+**🏢 AI Engineer · Leading the AI department** — *CSR-Online* · Barcelona  
+Reporting directly to the co-founder. Design and implementation of agentic workflows and enterprise RAG architectures on-premise, with full lifecycle ownership: infrastructure, vector database, backend, and production deployment.
 
-**⚡ Agentic AI & Systems Architect** — *VazquezDev* · Remote  
-Independent practice: freelance AI architecture projects and proprietary SaaS products in development. Focused on bringing enterprise-grade AI to teams that need it without big-tech dependencies.
+**⚡ AI Systems Architect & Developer** — *VazquezDev* · Remote  
+Personal brand and AI lab: freelance AI architecture projects and proprietary products in development. Enterprise-grade AI for teams that need it without big-tech dependencies.
 
 ---
 
 ## Technical stack
 
-**AI & Agentic Frameworks**
-`LangGraph` `LangChain` `CrewAI` `AutoGen` `Ollama` `n8n` `LLM APIs`
+**AI & Orchestration**
+`Python` `LangGraph / LangChain` `n8n` `MCP Protocol` `Claude · Groq · Gemini` `Ollama` `Hugging Face`
 
 **Vector & Data Infrastructure**
-`Pinecone` `ChromaDB` `pgvector` `Redis` `PostgreSQL`
+`ChromaDB` `Qdrant` `PostgreSQL` `Redis`
 
 **Production Backend**
-`Python` `FastAPI` `Django` `Node.js` `Docker`
+`FastAPI` `Docker` `Traefik` `VPS (Linux)`
 
-**Frontend**
-`Vue / Vuetify` `Angular` `React` `TypeScript`
+**Human-Agent Interface**
+`TypeScript` `Vue 3 / Vuetify` `Nuxt` `Tailwind CSS`
 
 ---
 
 ## How I think about AI systems
 
-- **Privacy by design** — client data stays on client infrastructure. Always.
+- **Architecture-first** — cloud APIs or self-hosted; the design follows your security and compliance requirements.
 - **Production-first** — latency, token economy, and hallucination control are not afterthoughts.
 - **Business outcomes over demos** — every system I build is measured against real operational impact.
 - **Iterative and clean** — small PRs, clear architecture, no over-engineering.
