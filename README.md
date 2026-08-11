@@ -10,7 +10,7 @@ I don't just integrate LLMs. I design AI that runs where it needs to — **your 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vazquezdev.pro-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://vazquezdev.pro)
-[![Cortex AI](https://img.shields.io/badge/Cortex_AI-brain.vazquezdev.pro-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://brain.vazquezdev.pro)
+[![Email](https://img.shields.io/badge/Email-adrian@vazquezdev.pro-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@vazquezdev.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adrivaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrivaz/)
 [![Instagram](https://img.shields.io/badge/Instagram-vazquezdev.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vazquezdev.ai/)
 
