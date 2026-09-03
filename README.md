@@ -116,7 +116,7 @@ ReportAI and Qdrant-MCP are the two deployed case studies on [vazquezdev.pro](ht
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-vazquezdev.pro-0D1117?style=for-the-badge&labelColor=0D1117&color=00FFA3)](https://www.vazquezdev.pro)
 [![Cortex AI](https://img.shields.io/badge/CORTEX_AI-Talk_to_it-0D1117?style=for-the-badge&labelColor=0D1117&color=A855F7)](https://brain.vazquezdev.pro)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-adriiivaaazz-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFA3&labelColor=0D1117)](https://linkedin.com/in/adriiivaaazz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-adrivaz-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFA3&labelColor=0D1117)](https://www.linkedin.com/in/adrivaz/)
 [![Email](https://img.shields.io/badge/EMAIL-adrian%40vazquezdev.pro-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=0D1117)](mailto:adrian@vazquezdev.pro)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-vazquezdev.ai-0D1117?style=for-the-badge&logo=instagram&logoColor=00FFA3&labelColor=0D1117)](https://instagram.com/vazquezdev.ai)
 [![GitHub](https://img.shields.io/badge/GITHUB-avaazquezz-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9&labelColor=0D1117)](https://github.com/avaazquezz)
