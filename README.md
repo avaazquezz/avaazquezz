@@ -102,8 +102,8 @@ ReportAI and Qdrant-MCP are the two deployed case studies on [vazquezdev.pro](ht
 
 | Period | Role | Where |
 |---|---|---|
-| Oct 2025 – Present | AI Systems Architect & Developer | **VazquezDev** — freelance AI architecture & proprietary products, built in parallel with CSR Online |
 | Mar 2026 – Present | AI Engineer | **CSR Online**, Barcelona — sole engineer of the AI department, reporting directly to the co-founder/CTO |
+| Oct 2025 – Present | AI Systems Architect & Developer | **VazquezDev** — freelance AI architecture & proprietary products, built in parallel with CSR Online |
 | Sep 2023 – Sep 2025 | Full Stack Product Engineer | Full-stack web — before specializing in AI architecture |
 
 ---
