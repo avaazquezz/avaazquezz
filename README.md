@@ -108,18 +108,6 @@ ReportAI and Qdrant-MCP are the two deployed case studies on [vazquezdev.pro](ht
 
 ---
 
-## `$ ./benchmark.sh --github`
-
-Pulled live from the GitHub API on every load — not typed by hand, never stale.
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avaazquezz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FFA3&ring=00FFA3&fire=A855F7&currStreakLabel=00FFA3&disable_animations=true" width="60%" />
-
-</div>
-
----
-
 ## `$ ssh adrian@vazquezdev.pro`
 
 **Read the code. That's the pitch.** Every claim above links to something you can actually open and run. Or skip the README — **[talk to Cortex AI](https://brain.vazquezdev.pro)**, the RAG system that already knows this portfolio cold.
