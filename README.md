@@ -19,7 +19,7 @@
 
 Below: a voice note that becomes a filled corporate report in seconds, a Qdrant vector database exposed as a full toolset for any MCP client, and a lab notebook built so research data never has to leave a university's own server. Three systems, three different hard problems — all shipped, all public. Scroll past the badges — **the repos do the talking.**
 
-Sole AI engineer at **CSR Online** since March 2020, reporting directly to the co-founder/CTO, owning three production AI systems end-to-end: infrastructure, vector database, backend, deployment. In parallel, I run **VazquezDev**, my own AI architecture practice.
+Sole AI engineer at **CSR Online** since March 2026, reporting directly to the co-founder/CTO, owning three production AI systems end-to-end: infrastructure, vector database, backend, deployment. In parallel, I run **VazquezDev**, my own AI architecture practice.
 
 ```bash
 adrian@vazquezdev:~$ whoami
@@ -103,7 +103,7 @@ ReportAI and Qdrant-MCP are the two deployed case studies on [vazquezdev.pro](ht
 | Period | Role | Where |
 |---|---|---|
 | Oct 2025 – Present | AI Systems Architect & Developer | **VazquezDev** — freelance AI architecture & proprietary products, built in parallel with CSR Online |
-| Mar 2020 – Present | AI Engineer | **CSR Online**, Barcelona — sole engineer of the AI department, reporting directly to the co-founder/CTO |
+| Mar 2026 – Present | AI Engineer | **CSR Online**, Barcelona — sole engineer of the AI department, reporting directly to the co-founder/CTO |
 | Sep 2023 – Sep 2025 | Full Stack Product Engineer | Full-stack web — before specializing in AI architecture |
 
 ---
