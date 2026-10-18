@@ -75,7 +75,7 @@ adrian@vazquezdev:~$ cat looking-for.md
 
 </div>
 
-| | |
+| Layer | Tools |
 |---|---|
 | **AI & LLM** | LangGraph · LangChain · MCP · Pydantic · Langfuse · Claude · OpenAI · Gemini · Groq · Ollama |
 | **Retrieval & data** | Qdrant · ChromaDB · pgvector · PostgreSQL · Redis |
@@ -92,8 +92,8 @@ Cloud models or fully self-hosted, depending on what the data allows.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-vazquezdev.pro-050505?style=for-the-badge&labelColor=050505&color=00f3ff)](https://vazquezdev.pro)
 [![Cortex AI](https://img.shields.io/badge/CORTEX_AI-talk_to_it-050505?style=for-the-badge&labelColor=050505&color=bc13fe)](https://brain.vazquezdev.pro)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-adrivaz-050505?style=for-the-badge&logo=linkedin&logoColor=00f3ff&labelColor=050505)](https://www.linkedin.com/in/adrivaz/)
-[![Email](https://img.shields.io/badge/EMAIL-adrian%40vazquezdev.pro-050505?style=for-the-badge&logo=gmail&logoColor=bc13fe&labelColor=050505)](mailto:adrian@vazquezdev.pro)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-adrivaz-050505?style=for-the-badge&labelColor=050505&color=00f3ff)](https://www.linkedin.com/in/adrivaz/)
+[![Email](https://img.shields.io/badge/EMAIL-adrian%40vazquezdev.pro-050505?style=for-the-badge&labelColor=050505&color=bc13fe)](mailto:adrian@vazquezdev.pro)
 [![CV EN](https://img.shields.io/badge/CV-EN-050505?style=for-the-badge&labelColor=050505&color=00ff9d)](https://vazquezdev.pro/CV_AdrianVazquez_EN.pdf)
 [![CV ES](https://img.shields.io/badge/CV-ES-050505?style=for-the-badge&labelColor=050505&color=00ff9d)](https://vazquezdev.pro/CV_AdrianVazquez_ES.pdf)
 
