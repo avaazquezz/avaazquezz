@@ -5,7 +5,7 @@
 **Reliable AI systems, from architecture to production.**
 
 ![Open to](https://img.shields.io/badge/OPEN_TO-AI_ENGINEER_ROLES-00ff9d?style=for-the-badge&labelColor=050505)
-![Based in](https://img.shields.io/badge/BASED_IN-BARCELONA_%C2%B7_REMOTE-00f3ff?style=for-the-badge&labelColor=050505)
+![Barcelona](https://img.shields.io/badge/BARCELONA-REMOTE_%C2%B7_RELOCATION_OK-00f3ff?style=for-the-badge&labelColor=050505)
 ![EU citizen](https://img.shields.io/badge/EU_CITIZEN-NO_VISA_SPONSORSHIP-bc13fe?style=for-the-badge&labelColor=050505)
 
 </div>
@@ -27,7 +27,7 @@ adrian@vazquezdev:~$ ./how-i-work.sh
 
 adrian@vazquezdev:~$ cat looking-for.md
 > AI Engineer roles (applied AI / LLM engineering) on a team that cares about evals
-> and reliability. Full-time, in Barcelona or remote.
+> and reliability. Full-time. Based in Barcelona, open to remote and relocation.
 ```
 
 ## Selected work
