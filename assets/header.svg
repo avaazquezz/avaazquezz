@@ -53,8 +53,8 @@
     <circle cx="42" cy="19" r="5" fill="#bc13fe"/>
     <circle cx="60" cy="19" r="5" fill="#00ff9d"/>
     <text class="mono" x="450" y="23" text-anchor="middle" font-size="12" fill="#a3acb9">adrian@vazquezdev.pro — ~</text>
-    <circle class="dot" cx="742" cy="19" r="4" fill="#00ff9d"/>
-    <text class="mono" x="754" y="23" font-size="11" letter-spacing="1" fill="#00ff9d">OPEN TO ROLES</text>
+    <circle class="dot" cx="684" cy="19" r="4" fill="#00ff9d"/>
+    <text class="mono" x="880" y="23" text-anchor="end" font-size="11" letter-spacing="1" fill="#00ff9d">OPEN TO ROLES &amp; PROJECTS</text>
 
     <!-- decorative monogram -->
     <text class="sans" x="880" y="232" text-anchor="end" font-size="190" font-weight="900" fill="none" stroke="#00f3ff" stroke-opacity=".22" stroke-width="1.5">VZ</text>
