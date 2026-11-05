@@ -3,7 +3,7 @@
 <img src="assets/header.svg" alt="Adrián Vázquez — AI Engineer. RAG systems, LLM agents and MCP servers in production." width="100%">
 
 **AI Engineer in Barcelona. I build RAG systems, LLM agents and MCP servers that run in production.**<br>
-Creator of [ReportAI](https://github.com/avaazquezz/ReportAI) and [Qdrant-MCP](https://github.com/avaazquezz/Qdrant-MCP).
+Creator of [ReportAI](https://github.com/avaazquezz/ReportAI), [Qdrant-MCP](https://github.com/avaazquezz/Qdrant-MCP) and [Spanish Laws for RAG](https://github.com/avaazquezz/boe-rag-sync).
 
 ![Open to](https://img.shields.io/badge/OPEN_TO-ROLES_%26_PROJECTS-00ff9d?style=for-the-badge&labelColor=050505)
 ![Barcelona](https://img.shields.io/badge/BARCELONA-REMOTE_%C2%B7_RELOCATION_OK-00f3ff?style=for-the-badge&labelColor=050505)
@@ -18,14 +18,22 @@ adrian@vazquezdev:~$ whoami
 adrian@vazquezdev:~$ cat mission.md
 > I build RAG pipelines, agents and MCP servers and take them all the way to production.
 > At CSR Online I'm the sole AI engineer, owning its 3 AI systems in production end to end.
-> At VazquezDev, my independent lab, I design, ship and run my own products: ReportAI and Qdrant-MCP.
+> At VazquezDev, my independent lab, I design, ship and run my own products:
+> ReportAI, Qdrant-MCP and Spanish Laws for RAG.
 > Same rule in both places: if it doesn't hold up in production, it isn't finished.
 
-adrian@vazquezdev:~$ ./how-i-work.sh
-[OK] Reliable by design — schema-validated LLM outputs, an eval suite guarding every change
-[OK] Observable — LLM tracing with Langfuse, Prometheus metrics on deployed services
-[OK] Safe by default — human approval before anything irreversible, read-only guard modes, strict input validation
-[OK] End-to-end — vector database, backend, orchestration and UI, delivered with CI/CD
+adrian@vazquezdev:~$ ./how-i-work.sh   # what the demo doesn't show
+[OK] Contracts       — typed boundaries, schema-validated LLM output, stable IDs: any part can be replaced
+[OK] Business logic  — the value is in the rules: any law as it stood on any date, deliver → record → charge
+[OK] Safeguards      — safe by default: read-only mode, SSRF allowlist, human approval before anything goes out
+[OK] Proof           — integration tests, evals, a weekly canary: if it isn't measured, it isn't finished
+[OK] Operations      — Docker + Traefik on my own server, releases from CI, a rollback tag before every deploy
+
+adrian@vazquezdev:~$ cat the-loop.md
+> I turn a vague request into requirements and trade-offs, then each task into a contract:
+> scope, interfaces and the tests it has to pass. AI coding agents implement; I read every diff,
+> and major releases also get an independent review. Tests, strict type checking and evals decide.
+> AI writes much of the code. I answer for every line.
 
 adrian@vazquezdev:~$ cat looking-for.md
 > AI engineering roles (applied AI / LLM engineering), projects and collaborations:
@@ -55,14 +63,30 @@ adrian@vazquezdev:~$ cat looking-for.md
 
 ### [Qdrant-MCP](https://github.com/avaazquezz/Qdrant-MCP)
 
-**The full Qdrant API as 56 MCP tools**, not just store/find. Any MCP client can manage collections, run every search mode and operate a production deployment.
+**The full Qdrant API as 58 MCP tools**, not just store/find. Any MCP client can manage collections, search by meaning or keyword, diagnose search quality and operate a production deployment.
 
 - 6 opt-in toolsets: collections, search, payload, admin, snapshots, observability
-- Hybrid search (RRF/DBSF), grouped, recommend, discover
-- Read-only guard mode removes every writing tool; filters that would wipe a collection are refused
-- 554 tests, incl. integration against a real Qdrant · on PyPI, Docker and the [official MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.avaazquezz%2Fmcp-qdrant) · MIT
+- Hybrid search (RRF/DBSF), grouped, recommend, discover — and text search: multilingual semantic (fastembed), BM25, or both
+- An advisor: a collection doctor that proposes the exact fix, and a search-quality eval (recall@k, p50/p95)
+- Read-only guard mode, refusal of filters that would wipe a collection, SSRF allowlist for snapshot restores
+- v2.12 · 766 tests (98% coverage), incl. integration against a real Qdrant · on PyPI, Docker and the [official MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.avaazquezz%2Fmcp-qdrant), released by CI · MIT
 
-[**Docs →**](https://mcp-qdrant.vazquezlabs.com) · [Live console](https://mcp-qdrant-web.vazquezlabs.com) · [Code](https://github.com/avaazquezz/Qdrant-MCP) · [PyPI](https://pypi.org/project/mcp-qdrant/)
+[**Docs →**](https://mcp-qdrant.vazquezlabs.com) · [Code](https://github.com/avaazquezz/Qdrant-MCP) · [PyPI](https://pypi.org/project/mcp-qdrant/)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+### [Spanish Laws for RAG](https://github.com/avaazquezz/boe-rag-sync)
+
+**Spanish law as RAG-ready chunks, kept in sync.** An Apify Actor that turns consolidated Spanish legislation into structure-aware chunks, in the wording in force on any date, and syncs only the changes to your vector store, deletions included.
+
+- The wording in force chosen the way boe.es does it (the later law prevails); editorial notes and repealed text removed
+- Incremental sync on Spain's Workers' Statute: a real reform → 7 upserts and 1 delete, 261 chunks untouched; a re-run → 0 operations
+- Functional core, tests on real XML from 4 laws, strict mypy, a weekly canary against the live API, 5 decision records · MIT
+
+[**Try it on Apify →**](https://apify.com/vazquezdev/spanish-laws-rag) · [Site](https://spanish-laws.vazquezlabs.com/en) · [Code](https://github.com/avaazquezz/boe-rag-sync)
 
 </td>
 </tr>
