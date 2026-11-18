@@ -49,14 +49,15 @@ adrian@vazquezdev:~$ cat looking-for.md
 
 ### [ReportAI](https://github.com/avaazquezz/ReportAI)
 
-**Voice note → finished corporate report**, filled into each client's own Word template and delivered on the chat channel the team already uses. No new app, no manual transcribing or formatting.
+**A technician dictates the visit; the report comes out in the company's own Word template.** Built for occupational health and safety inspections, where the report is a legal record. Nothing is sent until the technician has checked what the AI understood. v1.0.0, November 2026.
 
-- LangGraph agent · FastAPI · Claude structured output · Groq Whisper · self-hosted PostgreSQL
-- Multi-tenant: templates, document types and channels set up from an admin panel, no code to onboard a client
-- Schema-validated extraction, own eval suite, mandatory human review before sending
-- Live in production: 10–15 reports a month
+- LangGraph agent checkpointed in Postgres, behind a Postgres job queue · FastAPI · Claude or OpenAI · Groq Whisper · Nuxt
+- Every extracted value carries the quote it came from; a model is accepted only at 90% field accuracy with zero invented values on a golden set
+- Offline field app; multi-tenant with an isolation test over every route, or one company per server with a one-line installer
+- MCP server: Claude searches reports and starts drafts with a personal API key, through the panel's own permission checks
+- 721 backend tests in CI · about 90 s and under 5 cents of AI per report in the live demo
 
-[**Live demo →**](https://reportai.vazquezlabs.com) · [Code](https://github.com/avaazquezz/ReportAI)
+[**Live demo →**](https://reportai.vazquezlabs.com) · [**Case study →**](https://reportai.vazquezlabs.com/architecture) · [Code](https://github.com/avaazquezz/ReportAI)
 
 </td>
 <td valign="top" width="50%">
