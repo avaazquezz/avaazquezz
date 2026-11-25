@@ -49,13 +49,13 @@ adrian@vazquezdev:~$ cat looking-for.md
 
 ### [ReportAI](https://github.com/avaazquezz/ReportAI)
 
-**A technician dictates the visit; the report comes out in the company's own Word template.** Built for occupational health and safety inspections, where the report is a legal record. Nothing is sent until the technician has checked what the AI understood. v1.0.0, November 2026.
+**A technician dictates the visit; the report comes out in the company's own Word template.** Built for occupational health and safety inspections, where the report is a legal record. Nothing is sent until a person has checked what the AI understood. v1.1.0, November 2026.
 
 - LangGraph agent checkpointed in Postgres, behind a Postgres job queue · FastAPI · Claude or OpenAI · Groq Whisper · Nuxt
-- Every extracted value carries the quote it came from; a model is accepted only at 90% field accuracy with zero invented values on a golden set
+- Every extracted value carries the quote it came from. [Published evals](https://github.com/avaazquezz/ReportAI/blob/main/docs/evals.md) on 83 generated cases: Claude 99.7 % and OpenAI 97.5 % of fields right, zero invented values
+- AI assistants use it through an MCP server with its own OAuth 2.1 (Client ID Metadata Documents, PKCE, consent in the panel), connected end to end from claude.ai. Approving and sending stays with a person
 - Offline field app; multi-tenant with an isolation test over every route, or one company per server with a one-line installer
-- MCP server: Claude searches reports and starts drafts with a personal API key, through the panel's own permission checks
-- 721 backend tests in CI · about 90 s and under 5 cents of AI per report in the live demo
+- ~900 tests and the whole flow in a browser in CI · about 90 s and under 5 cents of AI per report in the live demo
 
 [**Live demo →**](https://reportai.vazquezlabs.com) · [**Case study →**](https://reportai.vazquezlabs.com/architecture) · [Code](https://github.com/avaazquezz/ReportAI)
 
